@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @navneetcor
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning c++ and web programming
-- 💞️ I’m looking to collaborate on NO idea, im just a beginner
-- 📫 How to reach me? You can reach me on mhy gmail @navneetcor2004@gmail.com
+- 💞️ I’m looking to collaborate? NO idea, im just a beginner
+- 📫 How to reach me? You can reach me on my gmail @navneetcor2004@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I dont really have any fun facts on me..
 
